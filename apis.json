@@ -1,0 +1,58 @@
+{
+    "name": "Slock.it",
+    "description": "Rent, sell or share anything. Powered by IoT + Blockchain",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19989-slock.it.jpg",
+    "tags": [
+        "blockchain",
+        "have api",
+        "marketplaces",
+        "sharing"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/slock-it\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Slock.it",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19989-slock.it.jpg",
+            "humanURL": "https:\/\/slock.it",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/slock-it-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/blog.slock.it\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/blog.slock.it\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/slock-it"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/slockit"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/slockitproject"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/slock.it"
+        }
+    ]
+}
